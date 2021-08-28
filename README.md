@@ -1,4 +1,4 @@
-# resource_monitor
+# resource-monitor
 
 Simple resource monitor for Linux.
 Program displays:
